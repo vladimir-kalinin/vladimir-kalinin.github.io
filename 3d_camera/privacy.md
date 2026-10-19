@@ -13,7 +13,7 @@ Vladimir Kalinin. This policy explains what data the app accesses and what it do
 
 The app does not collect, share or sell any personal data. Photos, videos and sound never leave
 the device. The only data sent off the device are crash reports, and they can be turned off in Settings.
-The app has no accounts, no ads and no analytics.
+The app has no accounts, no ads and does not track how you use it.
 
 ## Crash reports
 
